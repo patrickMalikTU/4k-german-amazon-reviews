@@ -1,7 +1,7 @@
 # 4k-german-amazon-reviews
 ## General
 This is a collection of 4000 German Amazon-Reviews.
-The Reviews were handpicked from the ''Bücher'' and ''DVD & Blu-ray'' sections of amazon. Duplicates were avoided as much as possible and all of the Datapoints were checked for correct spelling and somewhat correct grammar. Reviews with mistakes in those departments were corrected, if those changes did not destroy the original meaning and general structure of the review.
+The Reviews were handpicked from the ''Bücher'' and ''DVD & Blu-ray'' sections of amazon. Duplicates were avoided as much as possible and all of the Datapoints were checked for correct spelling and somewhat correct grammar. Reviews with grave mistakes in those departments were corrected, if those changes did not destroy the original meaning and general structure of the review. Punctuation was also added, if needed. Most of those checks were done with the online spellchecker of Duden. (https://www.duden.de/rechtschreibpruefung-online). Certain words that would not be recognized as proper german, but are common expressions were kept in, also various grammatically interesting sentences were kept.
 In general only reviews that do not go on about the contents of the respective medium were chosen, also inappropriate comments were not considered and therefore did not make it into this collection.
 Since I did not need reviews with a 3-star rating, there are none in this collection.
 
