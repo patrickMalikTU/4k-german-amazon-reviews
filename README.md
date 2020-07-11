@@ -9,3 +9,6 @@ Since I did not need reviews with a 3-star rating, there are none in this collec
 To make those Datapoints as easy-to-use as possible, every category (1-, 2-, 4- and 5-stars) is represented by a file with the respective name and 1000 reviews of that category. Each line contains one review, and a review does not have any line breaks.
 The order of the reviews within those files is not randomized, but still in the order they were picked in.
 To make further processes easier, they are in a simple .txt format.
+
+## Translations
+The translations-folder contains all the reviews translated from german into english, by microsoft azure's translation-service. They are in the same order as their german counterparts.
